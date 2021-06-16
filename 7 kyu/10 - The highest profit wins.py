@@ -1,5 +1,5 @@
 '''
-7kyu
+7 kyu
 
 Story
 
